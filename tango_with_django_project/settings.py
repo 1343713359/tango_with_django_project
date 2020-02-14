@@ -135,3 +135,4 @@ MEDIA_URL = '/media/'
 
 # Restricting access
 LOGIN_URL = 'rango:login'
+
